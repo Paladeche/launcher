@@ -1,11 +1,11 @@
 {
     "name": "paladeche-launcher",
     "preductname": "Paladeche Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Paladeche",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Chiroo__, LeBeaufort",
+        "name": "luuxis, Chiroo__, LeBeaufort, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
