@@ -1,7 +1,7 @@
 {
     "name": "paladeche-launcher",
     "preductname": "Paladeche Launcher",
-    "version": "2.0.7",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Paladeche",
     "main": "src/app.js",
     "author": {
