@@ -2,7 +2,7 @@
     "name": "paladeche-launcher",
     "preductname": "Paladeche Launcher",
     "version": "1.1",
-    "description": "Launcher Mincraft pour le serveur Paladeche",
+    "description": "Launcher moddé pour Paladèche",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Chiroo__, LeBeaufort, Inc.",
