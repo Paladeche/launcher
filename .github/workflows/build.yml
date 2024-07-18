@@ -53,6 +53,6 @@ jobs:
 
       - name: Build
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.github_token }}
         run: npm run build
         shell: bash
